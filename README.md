@@ -65,10 +65,18 @@ Future Improvements
 * Dashboard visualization
 * Segmentation integration
 * Deployment optimization
+
 Results
 
 Detection and Tracking
 
+![Detection and Tracking](screenshots/tracking.png)
+
 Zone Monitoring
 
+![Zone Monitoring](screenshots/zone_monitoring.png)
+
 Intrusion Detection
+
+![Intrusion Detection](screenshots/intrusion_detection.png)
+
