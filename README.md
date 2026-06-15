@@ -1,6 +1,6 @@
-#Smart Surveillance Monitoring System
+# Smart Surveillance Monitoring System
 
-##Overview
+## Overview
 
 This project is a real-time computer vision surveillance monitoring system built using YOLOv8 and OpenCV.
 
@@ -15,14 +15,14 @@ The system can:
 * Display tracking trails
 * Save events to a log file
 
-##Technologies Used
+## Technologies Used
 
 * Python
 * YOLOv8
 * OpenCV
 * NumPy
 
-##Features
+## Features
 
 Person Detection
 
@@ -48,7 +48,7 @@ Event Logging
 
 Stores intrusion and movement events in a log file.
 
-##How to Run
+## How to Run
 
 Install dependencies:
 
@@ -58,7 +58,7 @@ Run the project:
 
 python main.py
 
-##Future Improvements
+## Future Improvements
 
 * RTSP/IP camera support
 * Face verification
@@ -66,7 +66,7 @@ python main.py
 * Segmentation integration
 * Deployment optimization
 
-##Results
+## Results
 
 Detection and Tracking
 
